@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.netent.platform.hiring.stockTrader.StockTraderIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.494 s - in com.netent.platform.hiring.stockTrader.StockTraderIntegrationTest

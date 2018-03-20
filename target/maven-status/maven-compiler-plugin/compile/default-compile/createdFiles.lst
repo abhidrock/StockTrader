@@ -1,0 +1,8 @@
+com\netent\platform\hiring\stockTrader\api\StockTransferTransactionRequest$1.class
+com\netent\platform\hiring\stockTrader\api\TradingServiceIF.class
+com\netent\platform\hiring\stockTrader\api\DematServiceIF.class
+com\netent\platform\hiring\stockTrader\api\Stock.class
+com\netent\platform\hiring\stockTrader\api\StockTransferTransactionRequest$Builder.class
+com\netent\platform\hiring\stockTrader\api\StockTransferTransactionRequest.class
+com\netent\platform\hiring\stockTrader\api\StockTraderServiceFactoryIF.class
+com\netent\platform\hiring\stockTrader\api\InvalidTransactionRequestException.class
